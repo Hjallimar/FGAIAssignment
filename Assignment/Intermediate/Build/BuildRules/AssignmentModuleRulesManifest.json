@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\FutureGames\\Unreal\\FGAIAssignment\\Assignment\\Source\\Assignment\\Assignment.Build.cs",
+		"E:\\FutureGames\\Unreal\\FGAIAssignment\\Assignment\\Source\\Assignment.Target.cs",
+		"E:\\FutureGames\\Unreal\\FGAIAssignment\\Assignment\\Source\\AssignmentEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

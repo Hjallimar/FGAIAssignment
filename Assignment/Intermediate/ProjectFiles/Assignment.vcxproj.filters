@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Assignment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DEE75132-CF1F-4740-A956-13755D34C7C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AssignmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\gitignore.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{0AD210F9-5453-4E5E-B4BF-98409F1A2FCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Assignment">
+      <UniqueIdentifier>{2E22695B-504B-4DF9-8274-BA428E882E0A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment\Assignment.Build.cs">
+      <Filter>Source\Assignment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Assignment\Assignment.cpp">
+      <Filter>Source\Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assignment\Assignment.h">
+      <Filter>Source\Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Assignment\AssignmentCharacter.cpp">
+      <Filter>Source\Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assignment\AssignmentCharacter.h">
+      <Filter>Source\Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Assignment\AssignmentGameMode.cpp">
+      <Filter>Source\Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assignment\AssignmentGameMode.h">
+      <Filter>Source\Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Assignment\AssignmentHUD.cpp">
+      <Filter>Source\Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assignment\AssignmentHUD.h">
+      <Filter>Source\Assignment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Assignment\AssignmentProjectile.cpp">
+      <Filter>Source\Assignment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Assignment\AssignmentProjectile.h">
+      <Filter>Source\Assignment</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

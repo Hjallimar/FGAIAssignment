@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Assignment",
+			"Path": "E:\\FutureGames\\Unreal\\FGAIAssignment\\Assignment\\Source\\Assignment.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AssignmentEditor",
+			"Path": "E:\\FutureGames\\Unreal\\FGAIAssignment\\Assignment\\Source\\AssignmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
